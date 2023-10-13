@@ -3,28 +3,19 @@
 <br />
 
 ``` 
- - 🔭 I'm currently working on maintaining [jsoning](https://github.com/khalby786/jsoning)!
- - 🌱 I'm currently learning Rust, TypeScript (again) and other cool stuff!
- - 👯 I'm looking to collaborate on full stack web apps!
- - 🤔 I'm looking for help with Typescript and React
- - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
- - 📫 How to reach me: 
-      - [discord](https://discord.com/users/634701839983706112)  
-      - [other](https://www.khaleelgibran.com/#socials)
- - 😄 Pronouns: she/her
- - ⚡ Fun fact: [object Object]
+ - 💡 &nbsp;I like to explore new technologies and develop software solutions.
+ - 🎓 &nbsp;I'm currently studying Computer Science at the Bina Nusantara University.
+ - 🌱 &nbsp;I'm currently learning Vue.Js, ASP.NET JavaScript (again) and other cool stuff!
+ - 🔭 &nbsp;I'm on track for learning more about Digital Creative Technology, focusing on Software Development and Immersive Technology.\
+ - 👯 &nbsp;I'm looking to collaborate on full stack web apps!
+ - ✍️ &nbsp;In my free time, I pursue Graphic Design and UI/UX as hobbies/side hustles.
+ - 💬 &nbsp;Ask me about React, art design (including graphic designs), constellation and earthlings
+ - 😄 &nbsp;Pronouns: she/her
+ - ⚡ &nbsp;Fun fact: I can't eat chicken
+ - 📄 &nbsp;Please have a look at my [portfolio](https://alyadyh.github.io/) for more details about me. I'm open to feedback and suggestions!
 ```
 
 <br />
-
-### About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science at the Bina Nusantara University.\
-🌱 &nbsp;I'm on track for learning more about Digital Creative Technology, focusing on Software Development and Immersive Technology.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and UI/UX as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at alya.mdyh@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [portfolio](https://alyadyh.github.io/) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -43,7 +34,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -55,17 +45,7 @@
 </p>
 <div align="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=alyadyh&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=alyadyh&theme=react-dark"/>
 </div>
-
-## Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/alya-mardhiyyah"><img src="https://img.shields.io/badge/-Alya%20Mardhiyyah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:alya.mdyh@gmail.com"><img src="https://img.shields.io/badge/-alya.mdyh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/alyadya_"><img src="https://img.shields.io/badge/-@alyadya__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://figma.com/@itsmelya"><img src="https://img.shields.io/badge/-@itsmelya-1877F2?style=flat&logo=Figma&logoColor=white"/></a>
-</p>
 
 ## Connect with Me
 <p align="center">
