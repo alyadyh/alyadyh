@@ -33,13 +33,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <a href="https://github.com/alyadyh">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alyadyh&show_icons=true&theme=magenta&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alyadyh&layout=compact&langs_count=8&theme=magenta"/>
-  </a>
+<a href="https://github.com/alyadyh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alyadyh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alyadyh&layout=compact&langs_count=8&theme=radical"/>
+</a>
 </p>
 <div align="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=alyadyh&theme=magenta&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=alyadyh&theme=radical&background=0d1117&hide_border=true" />
 </div>
 
 ## Connect with Me
