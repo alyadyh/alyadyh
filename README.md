@@ -1,15 +1,15 @@
 ### 👋 &nbsp;Hey there! I'm Alya
 
-- 💡 &nbsp;I like to explore new technologies and develop software solutions.
-- 🎓 &nbsp;I'm currently studying Computer Science at the Bina Nusantara University.
-- 🌱 &nbsp;I'm currently learning Vue.Js, Next.Js, JavaScript (again) and other cool stuff!
+- 💡 &nbsp;Love to explore new technologies and develop software solutions.
+- 🎓 &nbsp;Currently studying Computer Science at the Bina Nusantara University.
+- 🌱 &nbsp;Currently learning Vue.Js, Next.Js, JavaScript (again) and other cool stuff!
 - 🔭 &nbsp;I'm on track for learning more about Digital Creative Technology, focusing on Software Development and Immersive Technology.
 - 👯 &nbsp;I'm looking to collaborate on front-end web apps!
-- ✍️ &nbsp;In my free time, I pursue Graphic Design and UI/UX as hobbies/side hustles.
-- 💬 &nbsp;Ask me about React, art design (including graphic designs), constellation and earthlings!
+- ✍️ &nbsp;In my free time, I pursue Graphic Design and UI/UX as side hustles.
+- 💬 &nbsp;Ask me about React, art design, constellation and earthlings!
 - 😄 &nbsp;Pronouns: she/her
-- ⚡ &nbsp;Fun fact: I'm one of the preemies
-- 📄 &nbsp;Please have a look at my [portfolio](https://alyadyh.github.io/) for more details about me. I'm open to feedback and suggestions!
+- ⚡ &nbsp;Fun fact: Eum.. dunno
+- 📄 &nbsp;Have a look at my [portfolio](https://alyadyh.github.io/) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
