@@ -2,7 +2,7 @@
 
 - 💡 &nbsp;Love to explore new technologies and develop software solutions.
 - 🎓 &nbsp;Currently studying Computer Science at the Bina Nusantara University.
-- 🌱 &nbsp;Currently learning Vue.Js, Next.Js, JavaScript (again) and other cool stuff!
+- 🌱 &nbsp;Currently learning Next.Js, JavaScript (again) and other cool stuff!
 - 🔭 &nbsp;I'm on track for learning more about Digital Creative Technology, focusing on Software Development and Immersive Technology.
 - 👯 &nbsp;I'm looking to collaborate on front-end web apps!
 - ✍️ &nbsp;In my free time, I pursue Graphic Design and UI/UX as side hustles.
@@ -16,15 +16,15 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.Js](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
-![Next.Js](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=next.js)&nbsp;
-![Vue.Js](https://img.shields.io/badge/-Vue.Js-05122A?style=flat&logo=vue)&nbsp;
+![Next.Js](https://img.shields.io/badge/-Next.Js-05122A?style=flat&logo=next.js)&nbsp;
+![Vue.Js](https://img.shields.io/badge/-Vue.Js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518&logoWidth=20)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
