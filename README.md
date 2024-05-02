@@ -3,7 +3,7 @@
 - 💡 &nbsp;Love to explore new technologies and develop software solutions.
 - 🎓 &nbsp;Currently studying Computer Science at the Bina Nusantara University.
 - 🌱 &nbsp;Currently learning Next.Js, JavaScript (again) and other cool stuff!
-- 🔭 &nbsp;I'm on track for learning more about Digital Creative Technology, focusing on Software Development and Immersive Technology.
+- 🔭 &nbsp;I am currently pursuing an in-depth study of Digital Creative Technology, focusing on Software Development and Immersive Technology.
 - 👯 &nbsp;I'm looking to collaborate on front-end web apps!
 - ✍️ &nbsp;In my free time, I pursue Graphic Design and UI/UX as side hustles.
 - 💬 &nbsp;Ask me about React, art design, constellation and earthlings!
