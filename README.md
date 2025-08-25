@@ -3,7 +3,7 @@
 - 💡 &nbsp;Love to explore new technologies and develop software solutions.
 - 🎓 &nbsp;Fresh graduate in Computer Science at Bina Nusantara University.
 - 🌱 &nbsp;Currently learning Next.Js, JavaScript (again) and other cool stuff!
-- 🔭 &nbsp;I'm pursuing an in-depth study of Digital Creative Technology, focusing on Software Development and Immersive Technology.
+- 🔭 &nbsp;I'm pursuing an in-depth study of Digital Creative Technology at uni, focusing on Software Development and Immersive Technology.
 - 👯 &nbsp;I'm looking to collaborate on front-end web apps!
 - ✍️ &nbsp;In my free time, I pursue Graphic Design and UI/UX as side hustles.
 - 💬 &nbsp;Ask me about React, art design, constellation and earthlings!
@@ -14,7 +14,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/css/v/css.svg?logo=css)&nbsp;
 ![React.Js](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
 ![Next.Js](https://img.shields.io/badge/-Next.Js-05122A?style=flat&logo=next.js)&nbsp;
 ![Vue.Js](https://img.shields.io/badge/-Vue.Js-05122A?style=flat&logo=vue.js)&nbsp;
