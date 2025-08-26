@@ -39,11 +39,12 @@
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=alyadyh&show_icons=true&theme=radical&include_all_commits=true&count_private=true)&nbsp;
+![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=alyadyh&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=alyadyh&theme=radical)&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alyadyh&langs_count=10&theme=transparent&layout=compact)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=alyadyh&theme=radical)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyadyh&theme=radical)-->
 ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alyadyh&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyadyh&theme=radical)-->
+
 
 
 ## Connect with Me
