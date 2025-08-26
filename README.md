@@ -2,11 +2,11 @@
 
 - 💡 &nbsp;Love to explore new technologies and develop software solutions.
 - 🎓 &nbsp;Fresh graduate in Computer Science at Bina Nusantara University.
-- 🌱 &nbsp;Currently learning Next.Js, JavaScript (again) and other cool stuff!
+- 🌱 &nbsp;Constantly diving into the latest advancements in Web Development and Software Engineering to stay ahead in the tech industry.
 - 🔭 &nbsp;I'm pursuing an in-depth study of Digital Creative Technology at uni, focusing on Software Development and Immersive Technology.
 - 👯 &nbsp;I'm looking to collaborate on front-end web apps!
 - ✍️ &nbsp;In my free time, I pursue Graphic Design and UI/UX as side hustles.
-- 💬 &nbsp;Ask me about React, art design, constellation and earthlings!
+- 💬 &nbsp;Ask me about React, art, constellation, and earthlings!
 - 😄 &nbsp;Pronouns: she/her
 - ⚡ &nbsp;Fun fact: I can't eat chicken..
 - 📄 &nbsp;Have a look at my [portfolio](https://alyadyh.github.io/) for more details about me. I'm open to feedback and suggestions!
