@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![DotNET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)\
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=563D7C)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -40,10 +40,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=alyadyh&show_icons=true&theme=radical&include_all_commits=true&count_private=true)&nbsp;
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=alyadyh&theme=radical)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyadyh&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=alyadyh&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyadyh&theme=radical)-->
 ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alyadyh&theme=radical)
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alyadyh&langs_count=10&theme=transparent&layout=compact)]-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alyadyh&langs_count=10&theme=transparent&layout=compact)
 
 ## Connect with Me
 <p align="center">
