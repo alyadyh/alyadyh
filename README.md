@@ -8,6 +8,7 @@
 - ✍️ &nbsp;In my free time, I pursue Graphic Design and UI/UX as side hustles.
 - 💬 &nbsp;Ask me about React, art, constellation, and earthlings!
 - 😄 &nbsp;Pronouns: she/her
+- 🌌 &nbsp;Motto: Every line of code is a lesson.
 - ⚡ &nbsp;Fun fact: I can't eat chicken..
 - 📄 &nbsp;Have a look at my [portfolio](https://alyadyh.github.io/) for more details about me. I'm open to feedback and suggestions!
 
