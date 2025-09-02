@@ -6,7 +6,7 @@
 - 🔭 &nbsp;I'm pursuing an in-depth study of Digital Creative Technology at uni, focusing on Software Development and Immersive Technology.
 - 👯 &nbsp;I'm looking to collaborate on front-end web apps!
 - ✍️ &nbsp;In my free time, I pursue Graphic Design and UI/UX as side hustles.
-- 💬 &nbsp;Ask me about React, art, constellation, and earthlings!
+- 💬 &nbsp;Ask me about React, arts, and earthlings!
 - 😄 &nbsp;Pronouns: she/her
 - 🌌 &nbsp;Motto: Every line of code is a lesson.
 - ⚡ &nbsp;Fun fact: I can't eat chicken..
